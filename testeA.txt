@@ -2,3 +2,5 @@ Mudança de arquivo no github
 
 teste, alteração criada na master mas transferida nova branche com o comando
 git checkout -b primeiro_branch
+
+alterações durante teste stash
