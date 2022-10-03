@@ -8,3 +8,5 @@ alterações durante teste stash
 teste criação de tag v3.0
 
 teste criação tag v4.0
+
+teste criação tag v5.0, primeiro commit depois criar a tag
