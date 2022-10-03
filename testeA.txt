@@ -6,3 +6,5 @@ git checkout -b primeiro_branch
 alterações durante teste stash
 
 teste criação de tag v3.0
+
+teste criação tag v4.0
