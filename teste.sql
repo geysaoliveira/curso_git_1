@@ -6,3 +6,6 @@ select * from teste_b;
 
 --query 3
 select * from teste_c;
+
+--query 4
+select * from teste_d;
